@@ -46,7 +46,7 @@ I'm a Sophomore at AKGEC, Ghaziabad.
 </a>
 
 <br />
-<br />
+
 ![Priyanshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=kpriyanshi02&theme=react-dark&hide_border=true&area=true)
 
 
