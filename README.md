@@ -30,22 +30,21 @@ I'm a Sophomore at AKGEC, Ghaziabad.
 
 
 ## &#x1f4c8; ⚡️GitHub Stats
-<a href="https://github.com/nishtha2405">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha2405&hide=java,html&theme=onedark" />
+<a href="https://github.com/kpriyanshi02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpriyanshi02&theme=onedark%22" />
 </a>
 <br><br>
-<a href="https://github.com/nishtha2405">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nishtha2405&theme=onedark&count_private=true" alt="Nishtha's GitHub Stats" />
+<a href="https://github.com/kpriyanshi02">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kpriyanshi02&theme=onedark&count_private=true" alt="Priyanshi's GitHub Stats" />
 </a>
 
-![Nishtha's github activity graph](https://activity-graph.herokuapp.com/graph?username=nishtha2405&theme=react-dark&hide_border=true&area=true)
+![Priyanshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=kpriyanshi02&theme=react-dark&hide_border=true&area=true)
 
 
 Have something cool to share? Connect with me on \
 \
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishtha-pandey-4370251bb/)](https://www.linkedin.com/in/nishtha-pandey-4370251bb/)
-[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/_nishthahaha_/)](https://www.instagram.com/_nishthahaha_/)
-[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/nishtha2405/)](https://www.github.com/nishtha2405/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanshi-kushwaha-59a659219/)](https://www.linkedin.com/in/priyanshi-kushwaha-59a659219/)
+[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/kpriyanshi02/)](https://www.github.com/kpriyanshi02/)
 
 <div align = "center">
 <br>
@@ -54,4 +53,4 @@ Have something cool to share? Connect with me on \
 
 
 
-Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/nishtha2405/count.svg) people to checkout my profile :heart:
+Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/kpriyanshi02/count.svg) people to checkout my profile :heart:
