@@ -41,7 +41,7 @@ I'm a Sophomore at AKGEC, Ghaziabad.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpriyanshi02&theme=black-ice)](https://git.io/streak-stats)
 
-<a href="https://github.com/aadrikasingh18">
+<a href="https://github.com/kpriyanshi02">
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kpriyanshi02&theme=react&count_private=true" alt="Priyanshi's GitHub Stats" />
 </a>
 
@@ -52,7 +52,7 @@ I'm a Sophomore at AKGEC, Ghaziabad.
 
 Have something cool to share? Connect with me on \
 \
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanshi-kushwaha-59a659219/)](https://www.linkedin.com/in/priyanshi-kushwaha-59a659219/)<img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanshi-kushwaha-59a659219/)](https://www.linkedin.com/in/priyanshi-kushwaha-59a659219/)
 [![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/kpriyanshi02/)](https://www.github.com/kpriyanshi02/)
 
 
