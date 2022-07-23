@@ -13,6 +13,7 @@ I'm a Sophomore at AKGEC, Ghaziabad.
  -   I am looking for help with Competitive Coding
  - 📫 How to reach me: kpriyanshi2002@gmail.com
 
+## Languages and Tools :
 
 <h3 align="center">🛠 My Tech Stack</h3>
 <br>
