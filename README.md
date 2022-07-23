@@ -31,16 +31,16 @@ I'm a Sophomore at AKGEC, Ghaziabad.
 
 
 ##  ⚡️GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpriyanshi02&layout=compact&theme=react)](https://github.com/kpriyanshi02/github-readme-stats)
+<br>
 <a href="https://github.com/kpriyanshi02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpriyanshi02&theme=onedark%22" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kpriyanshi02&theme=react&count_private=true" alt="Priyanshi's GitHub Stats" />
 </a>
-<br><br>
-<a href="https://github.com/kpriyanshi02">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kpriyanshi02&theme=onedark&count_private=true" alt="Priyanshi's GitHub Stats" />
-</a>
-<br><br>
+<br>
+
+## &#x1f4c8; Some Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpriyanshi02&theme=black-ice)](https://git.io/streak-stats)
-<br />
+<br>
 ![Priyanshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=kpriyanshi02&theme=react-dark&hide_border=true&area=true)
 <br>
 
