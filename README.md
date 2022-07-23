@@ -14,7 +14,7 @@ I'm a Sophomore at AKGEC, Ghaziabad.
  - 📫 How to reach me: kpriyanshi2002@gmail.com
 
 
-## &#x1f4c8; 🛠 My Tech Stack
+## 🛠 My Tech Stack
 <br>
 <p align="center">
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
@@ -30,7 +30,7 @@ I'm a Sophomore at AKGEC, Ghaziabad.
 </p>
 
 
-## &#x1f4c8; ⚡️GitHub Stats
+##  ⚡️GitHub Stats
 <a href="https://github.com/kpriyanshi02">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpriyanshi02&theme=onedark%22" />
 </a>
@@ -40,9 +40,11 @@ I'm a Sophomore at AKGEC, Ghaziabad.
 </a>
 <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpriyanshi02&theme=black-ice)](https://git.io/streak-stats)
-<br>
+<br />
 ![Priyanshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=kpriyanshi02&theme=react-dark&hide_border=true&area=true)
 <br>
+
+
 Have something cool to share? Connect with me on \
 \
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanshi-kushwaha-59a659219/)](https://www.linkedin.com/in/priyanshi-kushwaha-59a659219/)
