@@ -22,8 +22,8 @@ I'm a Sophomore at AKGEC, Ghaziabad.
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<code><img height="35px" src="https://cdn.svgporn.com/logos/jupyter.svg"> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px"></code>
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.svgporn.com/logos/jupyter.svg" />
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
