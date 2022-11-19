@@ -15,7 +15,7 @@ I'm a Sophomore at AKGEC, Ghaziabad.
  - 📫 How to reach me: kpriyanshi2002@gmail.com
 
 
-[![@kpriyanshi02's Holopin board](https://holopin.me/kpriyanshi028)](https://holopin.io/@kpriyanshi028)
+[![@kpriyanshi028's Holopin board](https://holopin.me/kpriyanshi028)](https://holopin.io/@kpriyanshi028)
 ## 🛠 My Tech Stack
 <br>
 <p align="center">
