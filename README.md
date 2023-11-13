@@ -6,7 +6,7 @@
 </div>
 
 
-I'm a Sophomore at AKGEC, Ghaziabad.
+I'm a final year student at AKGEC, Ghaziabad.
 
  -   Pronouns: She/her 🙋🏻‍♀️
  -   A Machine Learning Enthusiast
